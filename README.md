@@ -10,3 +10,4 @@ If I revisit this project, it will be to add more functionality. I would like to
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<img src="chicago.png" width='300'"/>
